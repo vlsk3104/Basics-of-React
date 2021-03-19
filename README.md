@@ -1,2 +1,2 @@
-# Basics-of-React
+# React-Basics
 Created with CodeSandbox
